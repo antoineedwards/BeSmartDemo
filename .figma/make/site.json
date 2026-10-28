@@ -1,0 +1,11 @@
+{
+  "title": "BeSmart Health",
+  "description": "A simple daily dashboard for tracking blood pressure, glucose, meals, and personal health trends.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
